@@ -1,0 +1,14 @@
+{
+  "name": "serve_koa",
+  "version": "0.1.0",
+  "description": "http服务",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "koa": "^2.13.3"
+  }
+}
